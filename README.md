@@ -134,7 +134,7 @@ PRODUCTS.HTML
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">HURAMA Pharma</a>
+      <a class="navbar-brand" href="#">MAD Pharma</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -226,7 +226,7 @@ DEVELOPMENTS.HTML
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">HURAMA Pharma</a>
+      <a class="navbar-brand" href="#">MAD Pharma</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -388,8 +388,8 @@ CONTACT_US.HTML
 
 ## OUTPUT:
 ![alt text](<Screenshot 2024-05-10 172145.png>)
-![alt text](<Screenshot 2024-05-10 172155.png>)
-![alt text](<Screenshot 2024-05-10 172202.png>)
+![alt text](<Screenshot 2024-05-12 104938.png>)
+![alt text](<Screenshot 2024-05-12 104949.png>)
 ![alt text](<Screenshot 2024-05-10 172211.png>)
 
 ## RESULT:
