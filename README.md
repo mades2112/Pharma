@@ -36,6 +36,7 @@ APP.HTML
   <title>Pharma</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"  crossorigin="anonymous">
 <body>
+  <body style="background-color: rgb(19, 16, 216);"></body>
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
@@ -111,13 +112,14 @@ APP.HTML
     </div>
   </section>
 
-  <footer class="text-center py-3 bg-light">
+  <footer style="background-color: rgb(255, 18, 18);" class="text-center py-3">
     <p>&copy; 2024 MAD Pharma MADESWARAN M(212223040106)</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
+
 ```
 PRODUCTS.HTML
 ```
@@ -130,6 +132,7 @@ PRODUCTS.HTML
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"  crossorigin="anonymous">
 </head>
 <body>
+  <body style="background-color: rgb(234, 20, 212);"></body>
 
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -205,12 +208,13 @@ PRODUCTS.HTML
   
   </section>
 
-  <footer class="text-center py-3 bg-light">
+  <footer style="background-color: rgb(219, 82, 13);" class="text-center py-3">
     <p>&copy; 2024 MAD Pharma MADESWARAN M(212223040106)</p>
   </footer>
 
 </body>
 </html>
+
 ```
 DEVELOPMENTS.HTML
 ```
@@ -223,6 +227,7 @@ DEVELOPMENTS.HTML
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" crossorigin="anonymous">
 </head>
 <body>
+  <body style="background-color: rgb(255, 255, 0);"></body>
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
@@ -283,17 +288,17 @@ DEVELOPMENTS.HTML
           </div>
         </div>
       </div>
-    </div>
-   
-    
+    </div> 
     </section>
-  <footer class="text-center py-3 bg-light">
-    <p>&copy; </p>
+    
+    <footer style="background-color: rgb(212, 36, 17);" class="text-center py-3">
+    <p>&copy;2024 MAD Pharma MADESWARAN M(212223040106) </p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
+
 ```
 CONTACT_US.HTML
 ```
@@ -306,6 +311,7 @@ CONTACT_US.HTML
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"  crossorigin="anonymous">
 </head>
 <body>
+    <body style="background-color: rgb(0, 238, 255);"></body>
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
@@ -376,7 +382,7 @@ CONTACT_US.HTML
     </div>
   </section>
 
-  <footer class="text-center py-3 bg-light">
+  <footer style="background-color: rgb(243, 35, 17);" class="text-center py-3">
     <p>&copy; 2024 MAD Pharma MADESWARAN M(212223040106)</p>
   </footer>
   
@@ -386,11 +392,15 @@ CONTACT_US.HTML
 </html>
 ```
 
+
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-10 172145.png>)
-![alt text](<Screenshot 2024-05-12 104938.png>)
-![alt text](<Screenshot 2024-05-12 104949.png>)
-![alt text](<Screenshot 2024-05-10 172211.png>)
+![alt text](<Screenshot 2024-05-12 112253.png>)
+![alt text](<Screenshot 2024-05-12 112306.png>)
+![alt text](<Screenshot 2024-05-12 112313.png>)
+![alt text](<Screenshot 2024-05-12 112320.png>)
+
+
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
